@@ -1,0 +1,9 @@
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\obj\Debug\DataWinForm.csprojResolveAssemblyReference.cache
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDataTest.resources
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\obj\Debug\DataWinForm.csproj.GenerateResource.Cache
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ducan\Documents\Visual Studio 2015\Projects\Oop\manage\winformEmployeeMNG\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
